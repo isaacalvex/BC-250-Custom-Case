@@ -1,4 +1,4 @@
-# BC-250 Custom PC Case
+# AMD BC-250 Custom PC Case
 
 ![fd8f3988-4797-438a-84bc-13a821a89247](https://github.com/user-attachments/assets/054dce06-1e0c-4125-b9cd-1b2700f88108)
 
