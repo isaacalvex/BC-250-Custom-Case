@@ -2,10 +2,6 @@
 
 ![fd8f3988-4797-438a-84bc-13a821a89247](https://github.com/user-attachments/assets/054dce06-1e0c-4125-b9cd-1b2700f88108)
 
-https://github.com/user-attachments/assets/8ce6c8a7-f13a-4485-aa80-e4a7987b4178
-
-
-
 
 
 
