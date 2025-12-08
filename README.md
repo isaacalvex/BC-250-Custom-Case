@@ -18,13 +18,9 @@ Lista completa de itens utilizados no projeto, incluindo links diretos para comp
 ## 🔩 Fixação
 
 ### • Parafusos M3x6 — 20 unidades
-<img width="721" height="397" alt="image" src="https://github.com/user-attachments/assets/0f2ee8fe-0ae3-4aec-a3c6-cdf442659f83" />
-
 Link: https://pt.aliexpress.com/item/1005007345768217.html
 
 ### • Insertos M3x6 — 15 unidades
-<img width="607" height="364" alt="image" src="https://github.com/user-attachments/assets/b3d5d1f8-a624-4359-bc05-63a029820bb7" />
-
 Link: https://pt.aliexpress.com/item/1005008301352294.html
 
 ---
@@ -32,13 +28,9 @@ Link: https://pt.aliexpress.com/item/1005008301352294.html
 ## 🔌 Conectividade e Controle
 
 ### • Hub USB 3.0 — 4 portas - 1 unidade
-<img width="714" height="446" alt="image" src="https://github.com/user-attachments/assets/7519f37e-ef2b-46e7-941b-8ac1d0409115" />
-
 Link: https://produto.mercadolivre.com.br/MLB-2784269349-hub-usb-30-original-com-4-portas-super-velocidade-5gbps-_JM
 
 ### • Hub PWM para múltiplos fans (até 5) - 1 unidade
-<img width="721" height="422" alt="image" src="https://github.com/user-attachments/assets/89f0e42d-d711-49b6-b6a6-1aa409027db9" />
-
 Link: https://produto.mercadolivre.com.br/MLB-5547773828-cabo-adaptador-multi-fan-pwm-para-5-coolers-4-pinos-45-cm-_JM
 
 ---
@@ -46,8 +38,6 @@ Link: https://produto.mercadolivre.com.br/MLB-5547773828-cabo-adaptador-multi-fa
 ## 🌀 Ventilação
 
 ### • Fans 120 mm — 4 pinos — 2 unidades 
-<img width="690" height="413" alt="image" src="https://github.com/user-attachments/assets/93a14467-e6e2-4cbd-83a0-73cd7b85b3cd" />
-
 Link: https://www.mercadolivre.com.br/cooler-fan-120mm-4-pinos-branco-2200-rpm-gabinete-pc-game/p/MLB45716756
 
 ---
