@@ -40,10 +40,10 @@ Link: https://www.mercadolivre.com.br/cooler-fan-120mm-4-pinos-branco-2200-rpm-g
 
 ## 🔘 Botões e Ativadores
 
-### • Micro Switch estilo mouse — botão de power  
+### • Micro Switch estilo mouse/botão de power - 1 unidade
 https://www.mercadolivre.com.br/kit-10-chave-fim-de-curso-kw10a-micro-switch-para-robotica/up/MLBU1726510531
 
-### • Push Button para acionamento da fonte  
+### • Push Button para acionamento da fonte - 1 unidade
 https://www.mercadolivre.com.br/kit-com-20-pecas-chave-push-button-6-pinos-diametro--85mm/up/MLBU778927544
 
 ---
@@ -51,9 +51,4 @@ https://www.mercadolivre.com.br/kit-com-20-pecas-chave-push-button-6-pinos-diame
 ## ⚡ Fonte de Alimentação (FLEX PSU)
 
 ### SKYWINDINTL Flex PC PSU — 400 W (350 W reais)  
-- Certificação: 80 Plus Gold  
-- Tamanho: 1U / Mini ITX / K39 / A4 / S3 / G5  
-- Ideal para builds compactas  
-Preço aproximado: R$ 375,61  
-
-https://a.aliexpress.com/_mrlSQH7
+Link: https://a.aliexpress.com/_mrlSQH7
