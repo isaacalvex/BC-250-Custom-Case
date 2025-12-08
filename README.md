@@ -8,10 +8,12 @@ Lista completa de itens utilizados no projeto, incluindo links diretos para comp
 
 ## 🔩 Fixação
 
-### • Parafusos M3x6 — 20 unidades  
+### • Parafusos M3x6 — 20 unidades
 https://pt.aliexpress.com/item/1005007345768217.html
 
-### • Insertos M3x6 — 15 unidades  
+### • Insertos M3x6 — 15 unidades
+<img width="607" height="364" alt="image" src="https://github.com/user-attachments/assets/b3d5d1f8-a624-4359-bc05-63a029820bb7" />
+
 https://pt.aliexpress.com/item/1005008301352294.html
 
 ---
