@@ -1,4 +1,4 @@
-# BC-250-Custom-Case
+# BC-250-Custom-PC-Case
 
 # Componentes Recomendados
 
