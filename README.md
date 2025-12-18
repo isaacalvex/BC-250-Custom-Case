@@ -39,6 +39,3 @@ Lista completa de itens utilizados no projeto, incluindo links diretos para comp
 
 ---
 
-## ⚡ Fonte de Alimentação (FLEX PSU)
-
-### SKYWINDINTL Flex PC PSU — 400 W (350 W reais) - Link: https://a.aliexpress.com/_mrlSQH7
