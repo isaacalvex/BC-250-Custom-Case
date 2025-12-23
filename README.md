@@ -39,3 +39,8 @@ Lista completa de itens utilizados no projeto, incluindo links diretos para comp
 
 ---
 
+## 🔘 Cabo DisplayPort/HDMI para utilizar na TV
+
+### • Ugreen - Displayport X Hdmi 4k Full Hd 3m 10203 - 1 unidade — Link: https://www.mercadolivre.com.br/ugreen--displayport-x-hdmi-4k-full-hd-3m-10203-c-nfe/up/MLBU1419675896
+
+---
