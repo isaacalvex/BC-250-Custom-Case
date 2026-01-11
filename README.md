@@ -5,8 +5,7 @@
 
 
 
-# Componentes Recomendados
-
+# Itens obrigatórios para a montagem:
 Lista completa de itens utilizados no projeto, incluindo links diretos para compra.
 
 ---
@@ -20,27 +19,27 @@ Lista completa de itens utilizados no projeto, incluindo links diretos para comp
 
 ## 🔌 Conectividade e Controle
 
-### • Hub USB 3.0 — 4 portas - 1 unidade — Link: https://produto.mercadolivre.com.br/MLB-2784269349-hub-usb-30-original-com-4-portas-super-velocidade-5gbps-_JM
+### • Hub USB 3.0 — 4 portas - 1 unidade — Link: https://mercadolivre.com/sec/2uJBcMX
 
-### • Hub PWM para múltiplos fans (até 5) - 1 unidade — Link: https://produto.mercadolivre.com.br/MLB-5547773828-cabo-adaptador-multi-fan-pwm-para-5-coolers-4-pinos-45-cm-_JM
+### • Hub PWM para múltiplos fans (até 5) - 1 unidade — Link: https://mercadolivre.com/sec/1Yk9tYN
 
 ---
 
 ## 🌀 Ventilação
 
-### • Fans 120 mm — 4 pinos — 2 unidades  — Link: https://www.mercadolivre.com.br/cooler-fan-120mm-4-pinos-branco-2200-rpm-gabinete-pc-game/p/MLB45716756
+### • Fans 120 mm — 4 pinos — 2 unidades  — Link: https://mercadolivre.com/sec/2zHXMnQ
 
 ---
 
 ## 🔘 Botões e Ativadores
 
-### • Micro Switch estilo mouse/botão de power - 1 unidade — Link: https://www.mercadolivre.com.br/kit-10-chave-fim-de-curso-kw10a-micro-switch-para-robotica/up/MLBU1726510531
-### • Push Button para acionamento da fonte - 1 unidade — Link: https://www.mercadolivre.com.br/kit-com-20-pecas-chave-push-button-6-pinos-diametro--85mm/up/MLBU778927544
+### • Botão com trava (Azul) - 1 unidade — Link: https://mercadolivre.com/sec/2JBbnZW
+### • Botão sem trava (Amarelo) - 1 unidade — Link: https://mercadolivre.com/sec/223wKj9
 
 ---
 
 ## 🔘 Cabo DisplayPort/HDMI para utilizar na TV
 
-### • Ugreen - Displayport X Hdmi 4k Full Hd 3m 10203 - 1 unidade — Link: https://www.mercadolivre.com.br/ugreen--displayport-x-hdmi-4k-full-hd-3m-10203-c-nfe/up/MLBU1419675896
+### • Ugreen - Displayport X Hdmi 4k Full Hd 3m 10203 - 1 unidade — Link: https://mercadolivre.com/sec/1DfXfEv
 
 ---
